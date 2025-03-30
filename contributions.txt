@@ -1,0 +1,5 @@
+Piero Amendola 20342498 21pda1 - implemented the entire perceptronmodel class including initialization weight retrieval prediction and training for binary classification
+
+Stephan Leznikov 20355463 21sml32 - implemented the entire regressionmodel class including initialization forward pass loss calculation and training for sin(x) approximation
+
+Qais Chatur 20359976 22qhc - implemented the entire digitclassificationmodel class including initialization forward pass loss calculation and training for mnist digit classification
