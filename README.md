@@ -1,7 +1,7 @@
 # NeuralNetworkAssignment
  A CISC-352 assignment from UC Berkeley's AI course, modified to build and train simple neural networks (Perceptron, Regression, Digit Classification) using a custom mini-library in Python with NumPy and Matplotlib.
  
- This was done in a group by Piero Amendola, Stephan Leznikov, and Qais Chatur
+ This was done in a group by Piero Amendola (@9iero), Stephan Leznikov (@sleznikov), and Qais Chatur (@QaisChatur).
 
 # Installation
 
